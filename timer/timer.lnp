@@ -1,0 +1,10 @@
+"main.obj",
+"LCD1602.obj",
+"DS1302.obj",
+"Delay.obj",
+"DS18B20.obj",
+"OneWire.obj",
+"clock.obj" 
+TO "timer" 
+RAMSIZE(256) 
+DISABLEWARNING (16) 
